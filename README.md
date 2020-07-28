@@ -1,3 +1,3 @@
 # Hackerrank
-A collection of hackerrank problems I have solved.
+A collection of Hackerrank problems I have solved.
 https://www.hackerrank.com/sinify
